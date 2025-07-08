@@ -1,5 +1,4 @@
-Absolutely, and thank you for sharing your hard work. Here’s a personalized and **empathic `README.md`** for your **LangChain-powered Website + YouTube Summarizer** project. I’ve made it a bit heartfelt yet professional to reflect your goals and grit — especially highlighting your aspirations to land a job and build a better future.
-
+▶️ YouTube Demo: [Watch Here](https://www.youtube.com/watch?v=z5Emuv6UMdc&ab_channel=Jatin)  
 ---
 
 ````markdown
@@ -70,8 +69,8 @@ I hope this makes someone's life easier — and helps me land a meaningful role 
 ### 1️⃣ Clone the Project
 
 ```bash
-git clone https://github.com/yourusername/langchain-summarizer.git
-cd langchain-summarizer
+git clone https://github.com/jatinydav557/website-yt-summarizer-langchain.git
+cd website-yt-summarizer-langchain
 ```
 
 ### 2️⃣ Create Environment & Install
@@ -138,7 +137,7 @@ Despite financial constraints, I’m constantly pushing boundaries through pract
 * 🧠 LLM / AI Development
 * 📊 Data Science / ML
 * ⚙️ Backend / Python / MLOps
-  📫 [Reach out on LinkedIn](https://www.linkedin.com/in/yourusername)
+* 📫 [Reach out on LinkedIn](https://www.linkedin.com/in/yourusername)
 
 🙏 If this project inspires you or helps you, feel free to ⭐ it!
 
